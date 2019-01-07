@@ -1,0 +1,11 @@
+
+@font-face {
+    font-family: 'Fritz Quadrata Cyrillic';
+    src: url('subset-FritzQuadrataCyrillic.eot');
+    src: url('subset-FritzQuadrataCyrillic.eot?#iefix') format('embedded-opentype'),
+        url('subset-FritzQuadrataCyrillic.woff2') format('woff2'),
+        url('subset-FritzQuadrataCyrillic.woff') format('woff'),
+        url('subset-FritzQuadrataCyrillic.svg#FritzQuadrataCyrillic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
